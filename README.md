@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm currently living in Shanghai, China
+- I'm currently learning Python, SQL
+- I'm looking to become a Data Analyst 
+- Fun fact: I am Indonesian. I went to United States when I was 15 years old, worked as a vendor in Google Maps Beijing, and currently living in Shanghai
 <!--
 **Clovil/clovil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
